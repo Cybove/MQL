@@ -1,0 +1,1 @@
+ENG, MATH, MAX(A), MIN(A), SORT(A)

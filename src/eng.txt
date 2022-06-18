@@ -1,0 +1,6 @@
+01 Oguz 50 70
+02 Aykut 35 70
+03 Ridvan 80 30
+04 Uche 45 50
+05 Appiah 40 75
+06 Alex 40 60
