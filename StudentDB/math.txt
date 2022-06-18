@@ -1,0 +1,3 @@
+01 Oguz 60
+02 Aykut 70
+03 Ridvan 50
